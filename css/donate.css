@@ -1,0 +1,249 @@
+
+/**********************************
+**********dona******************/
+
+#dona {
+	padding-bottom: 40px;
+	background-color: #fef0d3;
+	padding-top: 120px;
+}
+
+.breadcrumb {
+	max-width: 1170px;
+	margin: 0 auto;
+	background-color: #fef0d3;
+}
+.breadcrumb a {
+	color: #2D1414;
+}	
+.pader {
+	margin-bottom: 40px;
+}
+
+.pader h4 {
+	color: #FF8800;
+  font-family: 'Great Vibes', cursive;
+}
+
+.pader p {
+	margin-bottom: 50px;
+	font-size: 15px;
+}
+.pader h2 {
+	font-family: 'Roboto', sans-serif;
+	color: #2D1414;
+    font-size: 2.56rem;
+    line-height: 10%;
+    margin: 1.78rem 0 2.424rem 0;
+}
+.panel-body {
+	color: #2D1414;
+}
+.panel h5 {
+	color: #fff;
+}
+.panel-title a {
+	color: #fff;
+}
+.panel-footer a {
+	color: #fff;
+}
+.pan2 {
+	background: url(../img/h.png) #FF8800;
+}
+#dona .input-group-addon {
+	color: #880e4f;
+	 font-weight: bold;
+}
+#dona .input-group-addon a {
+	color: #880e4f;
+	font-weight: bold;
+}
+#dona .btn:hover, .btn:focus, .btn.focus {
+    color: #ffea02;
+}
+#dona .boxx {
+	margin-top: 30px;
+	margin-right: 80px;
+}
+#dona .boxy {
+	padding: 10px;
+	background-color: #880e4f;
+}
+#dona .boxy h5 {
+	color: #fff;
+}
+#dona input[type="text"], input[type="password"], input[type="email"], input[type="url"], input[type="time"], input[type="date"], input[type="datetime-local"], input[type="tel"], input[type="number"], input[type="search-md"], textarea.materialize-textarea {
+	border: 1px solid #fff;
+}
+    
+#dona .form-control {
+    color: #880e4f;
+}	
+#dona .boxx,
+#dona .boxy {
+	margin-top: 20px;
+}
+/**********************************
+**********monthly donate style******************/
+
+#month {
+	padding-top: 100px;
+	background-color: #fef0d3;
+}
+
+#month h2 {
+	color: #FF8800;
+  font-family: 'Great Vibes', cursive;
+}
+
+#month p {
+	font-size: 15px;
+	margin-bottom: 2rem;
+}
+
+#month  hr {
+	height: 0;
+    border-bottom: 1px solid #9d9d9d;
+}
+#month .panel {
+	margin: 30px auto;
+	border: 0;
+	border-radius: 0;
+}
+#month .panel h6 {
+	font-size: 1.5rem;
+	color: #fffde7;
+	padding: 5px;
+}
+#month .control-label {
+	color: #000;
+	font-size: 15px;
+}
+#month .orange.lighten-5 {
+    background-color: #fff !important;
+}
+#month .input-field label {
+    color: #351d1d;
+}
+#month label {
+    font-size: 1.08rem;
+    color: #3c1717;
+}
+#month button, input, optgroup, select, textarea {
+	margin: 10px;
+}	
+
+/**********************************
+**********billing******************/
+
+#billing {
+	padding-top: 80px;
+	padding-bottom: 40px;
+	background: url(https://media2.charityengine.net/WF/_transactionServerFiles/931/2016/9/1/care-df-footer-top.png) repeat-x top #F9781C;
+}
+#billing a {
+	color: #fff;
+	text-decoration: underline;
+}
+#billing h6 {
+	color: #fff;
+}
+#billing .f {
+	display: inline-block;
+}
+
+/**********************************
+**********bsec********************/
+
+#bsec {
+	padding: 80px;
+	background-color: #FF8800;
+	background: url(../img/bg2.jpg) repeat-x bottom;
+}
+#bsec .iim {
+	margin: 0 5px;
+}
+#bsec .pet {
+	color: #fff;
+}
+#bsec .dfg {
+	margin-top: 20px;
+	margin-right: 10px;	
+	padding: 10px 40px;
+	color: #ab1355;
+	background-color: #fff;
+	border: 1px solid #fff;
+}
+#bsec .dg {
+	margin-top: 20px;
+	margin-left: 10px;	
+	padding: 10px 40px;
+	font-weight: bold;
+	color: #FF8800;
+	background-color: #fff;
+	border: 1px solid #fff;
+}
+#bsec .dg h5 {
+	margin-right: 80px;
+	display: inline-block;
+}
+#bsec .input-group-addon {
+	color: #ab1355;
+	border: 1px solid #ab1355;
+}	
+#bsec .input-group-addon a {
+	color: #ab1355;
+}
+#bsec .dfg h5 {
+	color: #ab1355;
+	font-weight: bold;
+}
+#bsec .s-ico {
+	margin-top: 40px;
+	font-size: 40px;
+}
+#bsec .s-ico a {
+	color: #fff;
+}
+#bsec .s-ico .a:hover {	
+	color: #4286f4;
+}	
+#bsec .s-ico .b:hover {
+	color: #5ecaf2;
+}
+#bsec .s-ico .c:hover {
+	color: #af001a;
+}
+#bsec .s-ico .d:hover {
+	color: #185ea0;
+}
+#bsec .s-ico .e:hover {
+	color: #ba1ba2;
+}
+#bsec .s-ico .f:hover {
+	color: #ba1a1d;
+}
+#bsec .s-ico .g:hover {
+	color: #ff0000;
+}
+#bsec .s-ico .h:hover {
+	color: #000;
+}
+#bsec .s-ico .i:hover {
+	color: #ffea05;
+}
+#bsec .last {
+	font-size: 15px;
+	color: #fff;
+}
+#bsec .last a {
+	color: #2BBBAD;
+	font-size: 18px;
+	font-weight: bold;
+}
+
+/////****************////
+.rft {
+	color: #000;
+}
